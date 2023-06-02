@@ -4,7 +4,7 @@ Larabud is an exceptional companion to Laravel installation, offering a simple a
 ## Usage
 Simply execute:
 ```bash
-git clone git@github.com:DuckyStudios/larabud.git && bash larabud.sh
+git clone https://github.com/DuckyStudios/larabud.git && bash larabud.sh
 ```
 
 ## Requirements
